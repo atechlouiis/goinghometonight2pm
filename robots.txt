@@ -1,0 +1,4 @@
+User-agent: *
+Allow:/
+Sitemap: 
+goinghometonight.cf/sitemap.xml
